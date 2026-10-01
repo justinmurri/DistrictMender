@@ -1,0 +1,26 @@
+{
+  "state_fips": "49",
+  "state_abbr": "UT",
+  "state_name": "Utah",
+  "num_congressional_districts": 4,
+  "census_year": 2020,
+  "atomic_unit": "vtd",
+  "total_population": 3271616,
+  "ideal_district_population": 817904,
+  "vtd_count": 2745,
+  "tract_count": 716,
+  "county_count": 29,
+  "population_deviation_limit_pct": 1.0,
+  "paint_units": [
+    "vtd",
+    "tract",
+    "county"
+  ],
+  "files": {
+    "graph": "data/states/49/graph.json",
+    "vtds_geojson": "data/states/49/vtds.geojson",
+    "tracts_geojson": "data/states/49/tracts.geojson",
+    "counties_geojson": "data/states/49/counties.geojson",
+    "vtd_pops": "data/states/49/vtd_pops.json"
+  }
+}

@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Data artifacts (large; rebuild with scripts/build_dataset.py)
+data/cache/
+data/states/*/raw/
+*.zip
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+
+# Web
+web/node_modules/
+web/dist/
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
+
+# Solver build
+solver/target/
+solver/__pycache__/
+package-lock.json

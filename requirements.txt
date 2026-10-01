@@ -1,0 +1,10 @@
+geopandas>=0.14
+pandas>=2.0
+requests>=2.31
+shapely>=2.0
+pyogrio>=0.7
+gerrychain>=0.3.2
+networkx>=3.0
+fastapi>=0.115
+uvicorn>=0.30
+pydantic>=2.0
